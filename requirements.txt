@@ -1,0 +1,6 @@
+kivy>=1.9.1
+kivymd>=1.2.0
+kivy_garden.matplotlib
+matplotlib
+setuptools
+pillow
